@@ -1,0 +1,40 @@
+# Rust
+/target/
+Cargo.lock
+Cargo.toml.orig
+
+# Generated documentation
+/doc/
+
+# Visual Studio Code specific files
+.vscode/
+
+# IDEA-specific files
+.idea/
+
+# Compiled files
+*.rs.bk
+*.rlib
+*.rmeta
+*.o
+*.rlib
+*.rmeta
+main
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+
+# Sublime Text specific files
+*.sublime-project
+*.sublime-workspace
+
+# Editor backup files
+*~
+*.swp
+*.bak
